@@ -26,3 +26,4 @@ hs_err_pid*
 
 /coordinator/target/
 /.idea/
+coordinator/src/test/
